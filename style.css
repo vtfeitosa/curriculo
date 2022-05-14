@@ -77,3 +77,15 @@ ul  {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 16px;
 }
+
+.extra {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    color: #fff;
+    border: #fff;
+    border-style: ridge;
+    padding: 10px;
+    margin-bottom: 20px;
+    width: auto;
+    text-align: center;
+}
