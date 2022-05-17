@@ -26,4 +26,12 @@ Version 1.5
 ![](https://github.com/vtfeitosa/curriculo/blob/master/assets/versions/v1.5_ul_img_test.jpg?raw=true)
 
 Testing ul with svg file as an icon
+Update on May | 17 | 2022
+
+---
+
+Version 1.6
+![](https://github.com/vtfeitosa/curriculo/blob/master/assets/versions/v1.6_ul_img_test.jpg?raw=true)
+
+Fix ul icon link to .assets and removing the svg test
 Last Update on May | 17 | 2022
