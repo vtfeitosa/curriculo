@@ -69,7 +69,7 @@ a{
     color: grey
 }
 ul  {
-    list-style-image: url(link.png);
+    list-style-image: url(./assets/images/icons/link.png);
 }
 
 .destaque_tabela{
