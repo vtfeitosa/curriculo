@@ -18,4 +18,12 @@ Version 1.4
 ![](https://github.com/vtfeitosa/curriculo/blob/master/assets/versions/v1.4_border.jpg?raw=true)
 
 Add div on footer with border 
-Last Update on May | 14 | 2022
+Update on May | 14 | 2022
+
+---
+
+Version 1.5
+![](https://github.com/vtfeitosa/curriculo/blob/master/assets/versions/v1.5_ul_img_test.jpg?raw=true)
+
+Testing ul with svg file as an icon
+Last Update on May | 17 | 2022
