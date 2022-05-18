@@ -40,4 +40,14 @@ Update on May | 17 | 2022
 Version 1.7
 ![](https://github.com/vtfeitosa/curriculo/blob/master/assets/versions/v1.7_ul_changes.jpg?raw=true)
 
+Change a:link styles
+Last Update on May | 17 | 2022
+
+---
+Version 1.8
+![](https://github.com/vtfeitosa/curriculo/blob/master/assets/versions/v1.8_font_title.jpg?raw=true)
+
+![](https://github.com/vtfeitosa/curriculo/blob/master/assets/versions/v1.8_padding_sections.jpg?raw=true)
+
+Section padding and title font changed
 Last Update on May | 17 | 2022
