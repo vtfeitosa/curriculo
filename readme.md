@@ -34,4 +34,10 @@ Version 1.6
 ![](https://github.com/vtfeitosa/curriculo/blob/master/assets/versions/v1.6_ul_img_test.jpg?raw=true)
 
 Fix ul icon link to .assets and removing the svg test
+Update on May | 17 | 2022
+
+---
+Version 1.7
+![](https://github.com/vtfeitosa/curriculo/blob/master/assets/versions/v1.7_ul_changes.jpg?raw=true)
+
 Last Update on May | 17 | 2022
